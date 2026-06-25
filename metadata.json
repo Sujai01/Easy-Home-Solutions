@@ -1,0 +1,6 @@
+{
+  "name": "BioMorphic Design Atelier",
+  "description": "An interactive quiet luxury exhibition and portfolio website for Easy Home Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
